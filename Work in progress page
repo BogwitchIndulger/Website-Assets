@@ -2,24 +2,31 @@
 <!DOCTYPE html>
 <html>
   <body>
-<head>
   <style>
-h1 {
-    color: red ;
-    font-family: verdana ;
-    text-align: center ;
-    
+  a:link {
+    color: cornflowerblue ;
+    font-family: times new roman ;
+    text-align: center;
 }
   </style>
+<head>
+<style>
+h1 {
+    color: crimson ;
+    font-family: verdana ;
+    text-align: center ;
+}
+</style>
   </head>
 <h1>  Work in Progress HTML page
  
 </h1>
 <p> 
  <button>
-  <a style="color:red; href="https://www.google.com" title="Do not click to open link, open in new tab with right click">
+  <a href="https://www.google.com" title="Do not click to open link, open in new tab with right click">
 I am a link
 </a>
 </button>
+</p>
 </body>
 </html>
