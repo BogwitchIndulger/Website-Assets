@@ -2,7 +2,18 @@
 <!DOCTYPE html>
 <html>
   <body>
-<h1 style="text-align:center" style="font-family:arial;"> Work in Progress HTML page
+<head>
+  <style>
+h1 {
+    color: red ;
+    font-family: verdana ;
+    text-align: center ;
+    
+}
+  </style>
+  </head>
+<h1>  Work in Progress HTML page
+ 
 </h1>
 <p> 
  <button>
